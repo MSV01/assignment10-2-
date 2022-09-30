@@ -1,0 +1,70 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYsTPYlu_WHCCTSYJ78c6sen8oH-mjrdJ7Bg&usqp=CAU");
+    font-family: 'Times New Roman', Times, serif;
+}
+.head{
+    color: white;
+    margin: 100px 0px 0px  100px;
+    padding-top: 200px;
+    display: inline-block;
+    font-size: 2.9em;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}
+.h2 {
+    text-align: center;
+    margin-bottom: 35px;
+    font-size: 2.8em;
+}
+
+.div {
+    width: 400px;
+    height: 550px;
+    background-image: url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");
+    margin: -350px 250px 50px 600px;
+    border-radius: 20px;
+    padding: 40px 50px 70px 50px;
+}
+
+.h3 {
+    display: inline;
+    margin: 0px 10px 0px 0px;
+}
+
+.inp-1 {
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+
+.inp-2 {
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 39px;
+    background-color: whitesmoke;
+}
+.inp-3 {
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    margin-left: 20px;
+    background-color: whitesmoke;
+}
+
+.div-1 {
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+#btn {
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    font-weight: bold;
+    box-shadow: 3px 3px ;
+    border: none;
+    margin: 0px 10px 0px 120px;
+    background-color: rgb(102, 102, 250);
+    color: white;
+}
